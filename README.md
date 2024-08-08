@@ -17,11 +17,11 @@
 <br>
 
 <div align="center">	
-<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=edwine-nyakundi" height="130" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=edwine-nyakundi" height="129" alt="languages graph"  />
-	<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edwine-nyakundi&theme=nightowl" height="129" alt="Contributions Profile" />
+<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=Ogise" height="130" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=Ogise" height="129" alt="languages graph"  />
+	<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ogise &theme=nightowl" height="129" alt="Contributions Profile" />
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Dev_Ephraim&theme=nightowl)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Ogise&theme=nightowl)](https://git.io/streak-stats)
   
   
   ## 💰 
