@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Hello%2C+It's+Dev_Ephraim☠️;Give+me+A+Target+‼️;I+use+JAVA+BTW)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Hello%2C+It's+Dev_Ephraim☠️;Give+me+A+Target+‼️;I+use+Javascript+BTW)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -21,7 +21,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=edwine-nyakundi" height="129" alt="languages graph"  />
 	<img alt="Contributions Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edwine-nyakundi&theme=nightowl" height="129" alt="Contributions Profile" />
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=edwine-nyakundi&theme=nightowl)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Dev_Ephraim&theme=nightowl)](https://git.io/streak-stats)
   
   
   ## 💰 
@@ -29,7 +29,7 @@
 
   
   <div class="footer" align="center" style="margin:15px;">
-    <a href="mailto:edwinenyakundi@gmail.com" target="_blank">
+    <a href="mailto: ogiseephraim20@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
     
